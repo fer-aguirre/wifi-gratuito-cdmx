@@ -1,0 +1,9 @@
+Nombre de la Variable,Definici�n,Tipo de variable
+Alcald�a,"Sustantivo propio que identifica al municipio y/o alcald�a de conformidad con el cat�logo �nico de claves de �reas geoestad�sticas estatales, municipales y localidades del INEGI.",Alfanum�rica
+Colonia,"Sustantivo propio que identifica a la Colonia con el cat�logo �nico de claves de �reas geoestad�sticas estatales, municipales y localidades del INEGI.",Alfanum�rica
+ID,Identificador un�voco del sitio con internet gratuito habilitado.,Alfanum�rica
+Latitud,"Representaci�n cartesiana en formato decimal de la posici�n de un elemento en el espacio bidimensional y que representa al eje ""Y"".",Num�rico (flotante)
+Longitud,"Representaci�n cartesiana en formato decimal de la posici�n de un elemento en el espacio bidimensional y que representa al eje ""X"".",Num�rico (flotante)
+Programa,Programa de WiFi p�blico con el que se identifica la pertenencia del sitio p�blico.,Alfanum�rica
+Puntos_de_acceso,Dato que indica el n�mero de puntos de acceso inal�mbrico instalados en el sitio habilitado con Internet gratuito,Alfanum�rica
+Sitios,Dato que indica el n�mero de inmuebles o edificaciones donde se alojan los Puntos de Acceso.,Num�rico (entero)
